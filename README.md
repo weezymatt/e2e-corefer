@@ -1,1 +1,1 @@
-# e2e-corefer
+# Coreference Resolution
