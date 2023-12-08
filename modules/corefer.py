@@ -17,7 +17,7 @@ def hobbs_naive(sentence, pronoun_index):
       noun_phrase = tagged_tokens[i][0]
       break
 
-  # Apply hobbs' naive algorithm to find antecent
+  # Apply hobbs' naive algorithm to find antecedent
   for i in range(pronoun_index - 1, -1, -1):
     if tagged_tokens[i][1] in ['NN', 'NNS']:
       if tagged_tokens[i][0] != noun_phrase:
