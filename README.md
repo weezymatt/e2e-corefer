@@ -11,8 +11,13 @@ Use the package manager to install [pip](https://pip.pypa.io/en/stable/) to inst
 pip install conllu
 ```
 
-For more information, please [click here](https://pypi.org/project/conllu/).
+Or, if you fancy [conda](https://conda.io/en/latest/):
 
+```conda
+conda install -c conda-forge conllu
+```
+
+For more information, please [click here](https://pypi.org/project/conllu/).
 
 ## References
 We've been inspired by work attempting to understand the coreference resolution system. Additionally, recent work has produced an initiative to collect coreference corpora in various languages and harmonize them (CoNLL-U).
