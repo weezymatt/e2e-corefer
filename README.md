@@ -1,2 +1,3 @@
-# Coreference Resolution
-This repository is
+# Coreference Resolution with *CoNLL-U or CorefUD*
+
+## A fully functional Coreference Resolution project.
