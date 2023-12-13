@@ -6,9 +6,11 @@ Coreference is a kind of *reference resolution* that aims to resolve the relatio
 
 ## Installation
 Use the package manager to install [pip](https://pip.pypa.io/en/stable/) to install the CoNLL-U Parser.
+
 ```bash
 pip install conllu
 ```
+
 ## References
 We've been inspired by work attempting to understand the coreference resolution system. Additionally, recent work has produced an initiative to collect coreference corpora in various languages and harmonize them (CoNLL-U).
 
