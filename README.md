@@ -19,7 +19,7 @@ conda install -c conda-forge conllu
 
 For more information, please [click here](https://pypi.org/project/conllu/).
 
-### CoNLL-U Format
+## CoNLL-U Format
 
 *insert description*
 
