@@ -2,9 +2,8 @@
 A fully functional Coreference Resolution project.
 ## What is coreference resolution?
 Coreference is a kind of *reference resolution* that aims to resolve the relationship between which mentions are linked (or corefer) to the same entity. Applications include a wide variety of tasks, such as knowledge extraction, question answering, and dialog systems.
-## Detailed *goes here
-
 ## Installation
+To explore coreference
 Use the package manager to install [pip](https://pip.pypa.io/en/stable/) to install the CoNLL-U Parser.
 
 ```bash
@@ -21,7 +20,7 @@ For more information, please [click here](https://pypi.org/project/conllu/).
 
 ## CoNLL-U Format
 
-*insert description*
+The CoNLL-U format is used by the Universal Dependencies project and serves as a standardized approach to portray annotated linguistic data, generally related to tasks in Natural Language Processing. Our primary purpose using the format is to provide 
 
 ## References
 We've been inspired by work attempting to understand the coreference resolution system. Additionally, recent work has produced an initiative to collect coreference corpora in various languages and harmonize them (CoNLL-U).
