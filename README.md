@@ -19,6 +19,10 @@ conda install -c conda-forge conllu
 
 For more information, please [click here](https://pypi.org/project/conllu/).
 
+### CoNLL-U Format
+
+*insert description*
+
 ## References
 We've been inspired by work attempting to understand the coreference resolution system. Additionally, recent work has produced an initiative to collect coreference corpora in various languages and harmonize them (CoNLL-U).
 
